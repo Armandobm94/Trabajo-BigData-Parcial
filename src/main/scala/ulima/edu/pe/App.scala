@@ -28,7 +28,7 @@ object App {
     //DECLARAR ARREGLO DE TAMAÑO K
     var z = new Array[Double](k)
     //LLENAR ARREGLO Z DE RANDOMS QUE NO SE REPITAN
-      for(i<-0 to k-1){
+      for(i<-0 to k-1) {
         if(i == 0){
           z(i)=r.nextDouble()
         } else {

@@ -86,7 +86,7 @@
         <configuration>
           <archive>
             <manifest>
-              <mainClass>ulima.edu.pe.App</mainClass>
+              <mainClass>ulima.edu.pe.Appv2</mainClass>
             </manifest>
           </archive>
           <descriptorRefs>
